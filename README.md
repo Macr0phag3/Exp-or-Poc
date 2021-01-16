@@ -9,3 +9,4 @@ www.tr0y.wang
 1. discuz 任意文件删除漏洞
 2. CVE-2016-3714
 3. CVE-2018-1111
+4. JumpServer RCE(get log)
